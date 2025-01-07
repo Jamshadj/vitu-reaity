@@ -17,6 +17,7 @@ export default {
         freightNeo: ['"Freight Neo Pro"', 'sans-serif'],
       },
     },
+    
   },
   plugins: [],
 };

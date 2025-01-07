@@ -8,10 +8,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Profile Management</title>
+        <title>Vitu Realty</title>
         <meta
           name="description"
-          content="A profile management application built with Next.js and Tailwind CSS"
+          content=""
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

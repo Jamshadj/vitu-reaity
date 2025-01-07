@@ -9,10 +9,9 @@ const GeneralEnquireForm = () => {
             offer?
           </h2>
           <p className="text-textCustomGray text-xl font-freightNeo pt-6">
-  Take the first step towards the home of your <br />
-  dreams. Fill in the form and begin your Journey.
-</p>
-
+            Take the first step towards the home of your <br />
+            dreams. Fill in the form and begin your Journey.
+          </p>
           <hr className="w-[392px] mt-[38px] border-[1px] border-black border-opacity-20 transform rotate-0 left-[132px]" />
           <p className="text-textCustomGray text-xl font-medium pt-8">
             Alternately for your Queries contact
