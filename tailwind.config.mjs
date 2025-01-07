@@ -10,6 +10,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customBrown: '#4F3737',
+        textCustomGray: '#040707'
+      },
+      fontFamily: {
+        freightNeo: ['"Freight Neo Pro"', 'sans-serif'],
       },
     },
   },
